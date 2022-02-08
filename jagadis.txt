@@ -1,0 +1,27 @@
+It would be our worst enemy who would wish us to live only on the glories of the past and die off from the face of the earth in sheer passivity. By continuous achievement alone we can justify our great ancestry. We do not honour our ancestors by the false claim that they are omniscient and had nothing more to learn.
+
+
+
+Knowledge is never the exclusive possession of any favoured race; the whole world is inter-dependent and a constant stream of thought had through ages enriched the common heritage of mankind.
+
+
+The true laboratory is the mind, where behind illusions we uncover the laws of truth.
+
+
+
+
+Bose is a lunar impact crater that is located on the far side of the Moon, in the southern sphere hemisphere. It lies just to the northwest of the smaller crater Bhabha, and southeast of Alder. The crater is named after an eminent Indian polymath, Sir Jagadish Chandra Bose, for his works on wireless communication.
+
+
+
+
+background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,0.9824487655720813) 0%, rgba(0,0,0,0.05159772203323687) 100%);
+
+
+
+#ffcc00
+#19191a
+
+
+&#8594;
